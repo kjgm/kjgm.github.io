@@ -22,7 +22,7 @@ repository               : "kjgm/kjgm.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Jacobus van der Lidnen"
+  name             : "Jacobus van der Linden"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Delft, NL"
@@ -31,12 +31,12 @@ author:
   email            : "J.G.M.vanderLinden@tudelft.nl" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  #arxiv            : # URL - Update with the correct link to your profile
+  googlescholar    : "https://scholar.google.com/citations?user=rc-Xm_AAAAAJ&hl=nl"
+  #impactstory      : # URL
+  orcid            : "https://scholar.google.com/citations?user=rc-Xm_AAAAAJ&hl=nl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
   # Repositories and software development

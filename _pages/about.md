@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-# Publication highlights
+## Publication highlights
 
 {% if site.publication_category %}
   {% for post in site.publications reversed %}

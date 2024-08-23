@@ -8,6 +8,7 @@ date: 2021-05-31
 venue: 'Proceedings of the International Conference on Autonomous Agents and Multiagent Systems (AAMAS)'
 #slidesurl: 'tbd'
 paperurl: 'https://research.tudelft.nl/files/96693120/3463952.3464237.pdf'
+sourceurl: 'https://github.com/AlgTUDelft/cTORS'
 citation: 'Van der Linden, J. G. M., Mulderij, J., Huisman, B., den Ouden, J. W., van den Akker, M., Hoogeveen, H., & de Weerdt, M. M. (2021). &quot;TORS: A Train Unit Shunting and Servicing Simulator.&quot; <i>Proceedings of AAMAS-21</i>, 1773-1775.'
 ---
 

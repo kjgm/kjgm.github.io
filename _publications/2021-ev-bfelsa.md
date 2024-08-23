@@ -8,7 +8,7 @@ date: 2021-02-28
 venue: 'Energies'
 #slidesurl: 'tbd'
 sourceurl: 'https://github.com/AlgTUDelft/B-FELSA'
-paperurl: 'https://pure.tudelft.nl/ws/portalfiles/portal/55250635/0658.pdf'
+paperurl: 'https://pure.tudelft.nl/ws/portalfiles/portal/88266662/energies_14_01269_v2.pdf'
 citation: 'Van der Linden, K., Romero, N., & de Weerdt, M. M. (2021). &quot;Benchmarking Flexible Electric Loads Scheduling Algorithms.&quot; <i>Energies</i> 14(5), 1269.'
 ---
 

@@ -23,6 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Jacobus van der Linden"
+  short_name       : "Koos"
   #pronouns         : # example: "she/her"  
   bio              : "PhD student"
   location         : "Delft, NL"

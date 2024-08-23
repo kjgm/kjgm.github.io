@@ -11,54 +11,39 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D on Algorithms for and Application of Optimal Decision Trees, Delft University of Technology, 2026 (expected)
+  * Supervisors: Mathijs de Weerdt, Emir Demirović
+* M.A. in Theology and Religious Studies, Evangelical Theological Faculty Leuven, ongoing
+* M.S. in Computer Science, Delft University of Technology, 2017
+  * Specialization: Algorithms
+  * Master Thesis: [Decision diagrams for decomposed mixed integer linear programs](https://kjgm.github.io/publication/2017_master_thesis)
+* B.S. in Computer Science, Delft University of Technology, 2014
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Scientific Programmer (2017-2021)
+  * Delft University of Technology
+  * Project 1: Future proof flexible charging (URSES+)
+  * Project 2: Logistics of rostering with the Dutch Railways (NS) 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Student Coach
+  * Navigators
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+Software
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
+  <ul>{% for post in site.software reversed %}
+    {% include archive-single-cv.html %}
   {% endfor %}</ul>
+    
   
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

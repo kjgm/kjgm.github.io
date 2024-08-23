@@ -78,7 +78,9 @@ publication_category:
   highlights:
     title: 'Highlights'
   articles:
-    title: 'Articles'
+    title: 'Published Articles'
+  other:
+    title: "Other work"
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"

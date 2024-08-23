@@ -7,4 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-TBD
+# Publication highlights
+
+{% if site.publication_category %}
+  {% for post in site.publications reversed %}
+    {% if post.category != 'highlights' %}
+      {% continue %}
+    {% endif %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% endif %}

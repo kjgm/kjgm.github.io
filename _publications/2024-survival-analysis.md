@@ -8,6 +8,7 @@ date: 2024-02-28
 venue: 'Proceedings of AAAI-24'
 #slidesurl: 'tbd'
 paperurl: 'https://ojs.aaai.org/index.php/AAAI/article/view/29163/30199'
+sourceurl: 'https://github.com/AlgTUDelft/pystreed'
 citation: 'Huisman, T., van der Linden, J. G. M., & Demirović, E. (2024). &quot;Optimal Survival Trees: A Dynamic Programming Approach.&quot; <i>Proceedings of AAAI-24</i>, 12680-12688.'
 ---
 

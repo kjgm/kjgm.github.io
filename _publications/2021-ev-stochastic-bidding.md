@@ -8,6 +8,7 @@ date: 2021-02-01
 venue: 'Electric Power Systems Research'
 #slidesurl: 'tbd'
 paperurl: 'https://pure.tudelft.nl/ws/files/86367007/1_s2.0_S0378779620306660_main.pdf'
+sourceurl: 'https://github.com/AlgTUDelft/B-FELSA'
 citation: 'Romero, N., Van der Linden, K., Morales-España, G., & de Weerdt, M., (2021). &quot;Stochastic bidding of volume and price in constrained energy and reserve markets.&quot; <i>Electric Power Systems Research</i> 191, 106868.'
 
 ---

@@ -215,9 +215,12 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  software:
     output: true
     permalink: /:collection/:path/
+  #portfolio:
+  #  output: true
+  #  permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
@@ -233,8 +236,8 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
-      share: true
+      comments: false
+      share: false
       related: true
   # _pages
   - scope:
@@ -250,8 +253,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
+      share: false
+      comments: false
   # _publications
   - scope:
       path: ""
@@ -259,17 +262,25 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
-  # _portfolio
+      share: false
+      comments: false
   - scope:
       path: ""
-      type: portfolio
+      type: software
     values:
       layout: single
       author_profile: true
-      share: true
-      comment: true
+      share: false
+      comments: false
+  # _portfolio
+  #- scope:
+  #    path: ""
+  #    type: portfolio
+  #  values:
+  #    layout: single
+  #    author_profile: true
+  #    share: false
+  #    comment: true
   # _talks
   - scope:
       path: ""
@@ -277,7 +288,7 @@ defaults:
     values:
       layout: talk
       author_profile: true
-      share: true
+      share: false
 
 
 # Sass/SCSS

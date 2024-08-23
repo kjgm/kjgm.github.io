@@ -8,6 +8,7 @@ date: 2024-07-31
 venue: 'Proceedings of ICML-24'
 #slidesurl: 'tbd'
 paperurl: 'https://openreview.net/pdf?id=rXnBvu5D7i'
+sourceurl: 'https://github.com/AlgTUDelft/pystreed'
 citation: 'Van den Bos, M., van der Linden, J. G. M., & Demirović, E. (2024). &quot;Piecewise Constant and Linear Regression Trees: An Optimal Dynamic Programming Approach.&quot; <i>Proceedings of ICML-24</i>.'
 ---
 

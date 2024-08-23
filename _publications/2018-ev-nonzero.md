@@ -8,6 +8,7 @@ date: 2018-06-30
 venue: 'Proceedings of the 15th International Conference on the European Energy Market (EEM)'
 #slidesurl: 'tbd'
 paperurl: 'https://pure.tudelft.nl/ws/portalfiles/portal/56196684/08470023.pdf'
+sourceurl: 'https://github.com/AlgTUDelft/B-FELSA'
 citation: 'Van der Linden, K., de Weerdt, M., & Morales-España, G. (2018). &quot;Optimal Non-Zero Price Bids for EVs in
 Energy and Reserves Markets using Stochastic Optimization.&quot; <i>Proceedings of the 15th International Conference on the
 European Energy Market (EEM)</i>.'

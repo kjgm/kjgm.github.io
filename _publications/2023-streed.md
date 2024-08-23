@@ -8,6 +8,7 @@ date: 2023-12-31
 venue: 'Advances in NeurIPS-23'
 #slidesurl: 'tbd'
 paperurl: 'https://proceedings.neurips.cc/paper_files/paper/2023/file/1d5fce9627e15c84db572a66e029b1fc-Paper-Conference.pdf'
+sourceurl: 'https://github.com/AlgTUDelft/pystreed'
 citation: 'Van der Linden, J. G. M., de Weerdt, M. M., & Demirović, E. (2023). &quot;Necessary and Sufficient Conditions for Optimal Decision Trees Using Dynamic Programming.&quot; <i>Advances in NeurIPS-23</i>, 9173-9212.'
 ---
 

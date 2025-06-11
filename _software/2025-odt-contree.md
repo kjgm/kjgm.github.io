@@ -4,12 +4,12 @@ collection: software
 category: software
 permalink: /software/2025_odt_contree
 excerpt: 'ConTree computes optimal binary classification trees on datasets with continuous features using dynamic programming with branch-and-bound.'
-date: 2024-02-27
-#venue: 'Advances in NeurIPS-23'
+date: 2025-02-27
+#venue: 'Proceedings of AAAI-25'
 #slidesurl: 'tbd'
 paperurl: 'https://ojs.aaai.org/index.php/AAAI/article/view/33210/35365'
 sourceurl: 'https://github.com/consol-lab/contree'
-citation: 'Brita, C. E., van der Linden, J. G. M., & Demirović, E. (2025). &quot;Optimal Classification Trees for Continuous Feature Data Using Dynamic Programming with Branch-and-Bound.&quot; <i>Proceedings of AAAI-25</i>, 11131--11139.'
+citation: 'Brita, C. E., van der Linden, J. G. M., & Demirović, E. (2025). &quot;Optimal Classification Trees for Continuous Feature Data Using Dynamic Programming with Branch-and-Bound.&quot; <i>Proceedings of AAAI-25</i>, 11131-11139.'
 ---
 
 [![CMake build](https://github.com/ConSol-Lab/contree/actions/workflows/cmake.yml/badge.svg)](https://github.com/ConSol-Lab/contree/actions/workflows/cmake.yml)
